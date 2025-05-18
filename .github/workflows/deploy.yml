@@ -1,0 +1,27 @@
+name: Deploy site to GitHub Pages
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Pandoc
+        uses: docker://pandoc/core:3.5
+        with:
+          args: >
+            --standalone
+            --css=style.css
+            --output=public/index.html
+            README.md
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
