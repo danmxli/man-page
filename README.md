@@ -13,7 +13,7 @@
         - Abstract data types.
         - Algorithm analysis.
         - Problem solving strategies.
-    - **ECE224**:
+    - **ECE224**
         - Embedded microprocessor systems.
         - Microprocessor system architecture.
         - Data transfer, synchronization, error detection/correction, testing and debugging.
@@ -25,10 +25,20 @@
 ## Experience
 
 ### Voltra Energy — Software Developer  
-- **Accomplishments**: delivered systems powering EV-charging and IoT services with an emphasis on concurrent, fault-tolerant services, high-throughput pipelines, and backend security.
+- Delivered systems powering EV-charging and IoT services with an emphasis on concurrent, fault-tolerant services, high-throughput pipelines, and backend security.
+    - **IoT Action pipeline**
+        - A messaging fabric for Open Charge Point Protocol remote commands, built using Elixir.
+        - Implements the actor model for concurrent computation.
+        - Zero message loss in chaos tests and process restarts due to automatic state reconstruction of process handlers.
+    - **Traffic Management Layer**
+        - A multi-cloud policy enforcement gateway, built using Apache APISIX.
+        - Features load-balancing, per-tenant rate-limiting, and header-based API-key auth for protected routes.
+        - Features an observability pipeline to stream gateway events into Clickhouse for real-time billing & analytics.
 
 ### Onlia Insurance - Automation QA
-- **Accomplishments**: led the development of a web automation tool for regression testing workflows.
+- Led the development of a web automation tool for regression testing workflows.
+    - **Selenium POM framework**
+        - Implements Java-based Page Object Model design to encapsulate web elements, allowing for a wide scope of testing.
 
 ---
 

@@ -20,7 +20,7 @@ jobs:
             -v "${{ github.workspace }}:/data" \
             -u "$(id -u):$(id -g)" \
             pandoc/core:3.5 \
-            README.md -o public/index.html --standalone --css=style.css
+            README.md -o public/index.html --standalone
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
