@@ -64,13 +64,12 @@
 
 ---
 
-## Primary Contact
-- **Email**: d22li@uwaterloo.ca  
+## Contact
+- **School Email**: d22li@uwaterloo.ca
+- **Personal Email**: danmuxingli@gmail.com
 - **Mobile**: +1-647-675-6975
-- **GitHub**: [github.com/danmxli](https://github.com/danmxli)
 - **LinkedIn**: [linkedin.com/in/danli591](https://www.linkedin.com/in/danli591/)
-
-## Other Links
-- **Instagram**: [instagram.com/591_fj](https://www.instagram.com/591_fj/)
-- **X (Twitter)**: [x.com/591fj](https://x.com/591fj)
+- **GitHub**: [github.com/danmxli](https://github.com/danmxli)
 - **LeetCode**: [leetcode.com/danmxli](https://leetcode.com/danmxli/)
+- **X (Twitter)**: [x.com/591fj](https://x.com/591fj)
+- **Instagram**: [instagram.com/591_fj](https://www.instagram.com/591_fj/)
