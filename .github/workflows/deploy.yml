@@ -22,7 +22,7 @@ jobs:
             pandoc/core:3.5 \
             README.md -o public/index.html --standalone \
             --include-in-header=head.html \
-            --metadata title="Muxing Li - Portfolio"
+            --metadata title="Muxing Li"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
