@@ -1,5 +1,5 @@
 ## About
-- 2B Computer Engineering student at the University of Waterloo. Targeting software & embedded development - notably backend services, distributed systems, and performance optimization.
+- Second-year Computer Engineering student at the University of Waterloo, specializing in engineering roles focused on distributed systems and performance optimization.
 - **Relevant Coursework**:
     - **ECE252**
         - Systems programming and concurrency.
@@ -71,5 +71,3 @@
 - **LinkedIn**: [linkedin.com/in/danli591](https://www.linkedin.com/in/danli591/)
 - **GitHub**: [github.com/danmxli](https://github.com/danmxli)
 - **LeetCode**: [leetcode.com/danmxli](https://leetcode.com/danmxli/)
-- **X (Twitter)**: [x.com/591fj](https://x.com/591fj)
-- **Instagram**: [instagram.com/591_fj](https://www.instagram.com/591_fj/)
