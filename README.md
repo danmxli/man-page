@@ -22,10 +22,10 @@
 
 ## Experience
 
-### Voltra Energy — Software Developer Intern (Jan 2025 - Apr 2025)
-- Delivered concurrent, fault-tolerant systems powering IoT services and pipelines for CI/CD and telemetry.
+### Voltra Energy | Software Developer Intern (Jan 2025 - Apr 2025)
+- Delivered concurrent, fault-tolerant systems powering IoT services, and pipelines for CI/CD and telemetry.
     - **IoT Action Layer**
-        - A Elixir-based messaging fabric for Open Charge Point Protocol remote commands.
+        - An Elixir-based messaging fabric for Open Charge Point Protocol remote commands.
         - Implements the actor model for concurrent computing.
         - Zero message loss in chaos tests and process restarts due to automatic state reconstruction of process handlers.
     - **Traffic Management Layer**
@@ -33,7 +33,7 @@
         - Features load-balancing, per-tenant rate-limiting, and header-based API-key auth for protected routes.
         - Features an observability pipeline to stream gateway events into Clickhouse for real-time billing & analytics.
 
-### Voltra Energy — Software Developer Intern (May 2024 - Aug 2024)
+### Voltra Energy | Software Developer Intern (May 2024 - Aug 2024)
 - Developed data infrastructure for route planning and EV management features.
     - **Data Pipeline**
         - A Go-based service that ingests, transforms, and loads station metadata from distributed sources into a PostgreSQL database.
@@ -42,7 +42,7 @@
         - A centralized repository that enforces typed gRPC service contracts for route planning and station discovery.
         - Features schema versioning and codegen pipelines to eliminate serialization mismatches during rolling updates.
 
-### Onlia Insurance - Automation QA Intern (May 2023 - Aug 2023)
+### Onlia Insurance | Automation QA Intern (May 2023 - Aug 2023)
 - Led the development of a web automation tool for regression testing workflows.
     - **Selenium POM framework**
         - Implements Java-based Page Object Model design to encapsulate web elements, allowing for a wide scope of testing.
