@@ -31,7 +31,7 @@
     - **Traffic Management Layer**
         - A cloud-native policy enforcement gateway, built using Apache APISIX.
         - Features load-balancing, per-tenant rate-limiting, and header-based API-key auth for protected routes.
-        - Features an observability pipeline to stream gateway events into Clickhouse for real-time billing & analytics.
+        - Features an observability pipeline to stream gateway events into Clickhouse for real-time billing and analytics.
 
 ### Voltra Energy - Software Developer Intern (May 2024 - Aug 2024)
 - Developed data infrastructure for route planning and EV management features.
