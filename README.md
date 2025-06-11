@@ -43,7 +43,7 @@
         - Features schema versioning and codegen pipelines to eliminate serialization mismatches during rolling updates.
 
 ### Onlia Insurance - Automation QA Intern (May 2023 - Aug 2023)
-- Led the development of a web automation tool for regression testing workflows.
+- Led the development of a web automation project for regression testing workflows.
     - **Selenium WebDriver Automation Framework**
         - Implements Java-based Page Object Model design to encapsulate web elements, allowing for a wide scope of testing.
 
