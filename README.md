@@ -44,7 +44,7 @@
 
 ### Onlia Insurance - Automation QA Intern (May 2023 - Aug 2023)
 - Led the development of a web automation tool for regression testing workflows.
-    - **Selenium POM framework**
+    - **Selenium WebDriver Automation Framework**
         - Implements Java-based Page Object Model design to encapsulate web elements, allowing for a wide scope of testing.
 
 ---
