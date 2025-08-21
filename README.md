@@ -74,7 +74,5 @@
 ---
 
 ## Links
-- **School Email**: [d22li@uwaterloo.ca](mailto:d22li@uwaterloo.ca)
-- **Personal Email**: [danmuxingli@gmail.com](mailto:danmuxingli@gmail.com)
 - **LinkedIn**: [linkedin.com/in/danli591](https://www.linkedin.com/in/danli591/)
 - **GitHub**: [github.com/danmxli](https://github.com/danmxli)
