@@ -15,7 +15,6 @@
             - Formal models of computation.
             - Predicate logic, temporal logic, relational logic. Set theory, proof theory, model theory, graph theory.
         - Projects
-            - Formula parsing and evaluation tool using abstract syntax trees.
             - Boolean satisfiability solver using the DPLL algorithm.
     - **ECE250: Algorithms and Data Structures**
         - About
