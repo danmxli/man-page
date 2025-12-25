@@ -41,35 +41,6 @@
 
 ---
 
-## Experience
-
-### Voltra Energy - Software Developer Intern (Jan 2025 - Apr 2025)
-- Delivered concurrent, fault-tolerant systems powering IoT services, and pipelines for CI/CD and telemetry.
-    - **IoT Action Layer**
-        - An Elixir-based messaging fabric for Open Charge Point Protocol remote commands.
-        - Implements the actor model for concurrent computing.
-        - Zero message loss in chaos tests and process restarts due to automatic state reconstruction of process handlers.
-    - **Traffic Management Layer**
-        - A cloud-native policy enforcement gateway, built using Apache APISIX.
-        - Features load-balancing, per-tenant rate-limiting, and header-based API-key auth for protected routes.
-        - Features an observability pipeline to stream gateway events into Clickhouse for real-time billing and analytics.
-
-### Voltra Energy - Software Developer Intern (May 2024 - Aug 2024)
-- Developed data infrastructure for route planning and EV management features.
-    - **Data Pipeline**
-        - A Go-based service that ingests, transforms, and loads station metadata from distributed sources into a PostgreSQL database.
-        - Leverages concurrent worker pools with idempotent processing for consistent data ingestion.
-    - **Proto3 Schema Repository**
-        - A centralized repository that enforces typed gRPC service contracts for route planning and station discovery.
-        - Features schema versioning and codegen pipelines to eliminate serialization mismatches during rolling updates.
-
-### Onlia Insurance - Automation QA Intern (May 2023 - Aug 2023)
-- Led the development of a web automation project for regression testing workflows.
-    - **Selenium WebDriver Automation Framework**
-        - Implements Java-based Page Object Model design to encapsulate web elements, allowing for a wide scope of testing.
-
----
-
 ## Open Source Projects
 
 - **SQL Database Migration Visualizer (C, C++)**
