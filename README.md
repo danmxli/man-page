@@ -1,6 +1,5 @@
 ## About
-Third year Computer Engineering student at the University of Waterloo. Background in Systems Programming and Concurrency, Embedded
-Microprocessor Systems, Digital Hardware Systems, Real-Time Operating Systems.
+Third year Computer Engineering student at the University of Waterloo. Background in Computer Architecture, Systems Programming and Concurrency, Real-Time Operating Systems.
 
 ---
 
