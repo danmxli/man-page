@@ -41,15 +41,6 @@
 
 ---
 
-## Open Source Projects
-
-- **SQL Database Migration Visualizer (C, C++)**
-    - [Source code](https://github.com/danmxli/pg_migration_graph) 
-    - PostgreSQL migration visualizer program.
-    - Transforms SQL schema changes into weighted directed graphs using AST parsing and graph theory.
-
----
-
 ## Links
 - **LinkedIn**: [linkedin.com/in/danli591](https://www.linkedin.com/in/danli591/)
 - **GitHub**: [github.com/danmxli](https://github.com/danmxli)
