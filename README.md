@@ -1,8 +1,4 @@
-## About
-Third year Computer Engineering student at the University of Waterloo. Background in Computer Architecture, Systems Programming and Concurrency, Real-Time Operating Systems.
+# Muxing's portfolio
 
----
-
-## Links
-- **LinkedIn**: [linkedin.com/in/danli591](https://www.linkedin.com/in/danli591/)
-- **GitHub**: [github.com/danmxli](https://github.com/danmxli)
+The source for [muxing.info](https://muxing.info/), built with
+[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).

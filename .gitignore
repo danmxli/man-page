@@ -1,2 +1,7 @@
-# generated html output
-html-output/
+# Local Python environment and caches
+.venv/
+__pycache__/
+.cache/
+
+# Generated MkDocs site
+site/
